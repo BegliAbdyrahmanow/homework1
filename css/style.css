@@ -82,6 +82,7 @@
 
 .item-text {
    padding: 20px 0 0;
+   color: white;
 }
 
 .item:hover .item-text {
@@ -102,9 +103,12 @@
 }
 
 .from {
-    font-size: 10px;
+    color: white;
 }
 
 .item:hover .orange-menu {
     z-index: 1;
+}
+a {
+    text-decoration: none;
 }
